@@ -1,3 +1,0 @@
-const str = "Ha!";
-const n = 2;
-console.log(str+str);
